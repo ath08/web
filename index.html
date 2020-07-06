@@ -36,7 +36,32 @@
     </nav>
     <img src="./images/menu.png" alt="menu" id="menuBtn">
 
-   
+    <!-- about -->
+
+    <section id="about">
+        <div class="about-left-col">
+
+        </div>
+        <div class="about-right-col">
+            <img src="./images/about.png" alt="about">
+        </div>
+        
+    </section>
+
+    <script>
+        let menuBtn = document.getElementById('menuBtn');
+        let sideNav = document.getElementById('sideNav');
+
+        sideNav.style.right = '-250px';
+        menuBtn.onclick = function() {
+            if(sideNav.style.right == '-250px') {
+                sideNav.style.right = '0';
+            }
+            else{
+                sideNav.style.right = '-250px'
+            }
+        }
+    </script>
 
 
 
