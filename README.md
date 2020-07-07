@@ -14,13 +14,13 @@ ___
  -----
 
  **This website creates using only HTML5 and CSS3**
-——
+
  [A th online courses](https://ath08.github.io/web/)
- ——
+
 <img src="images/logo.png" width = "300px">
  ---
  ---
 
- *it's not complete yet*
+ *it's not completed yet*
 
 
