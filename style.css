@@ -196,6 +196,7 @@ nav ul li a {
     margin-right: 25px;
 }
 
+
 /* courses */
 
 #courses {
@@ -427,9 +428,6 @@ hr {
     .like-title {
         flex-basis: 50%;
         margin-bottom: 30px;
-    }
- 
-
-    
+    } 
     
 }
