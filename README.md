@@ -15,8 +15,7 @@ ___
 
  **This website creates using only HTML5 and CSS3**
  
-<img src="images/logo.png" width = "100px">
-[A th online courses](https://ath08.github.io/web/.)
+<img src="images/logo.png" width = "200px"> [A th online courses](https://ath08.github.io/web/)
  ---
  ---
 
